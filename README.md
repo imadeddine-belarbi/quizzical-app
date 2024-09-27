@@ -7,5 +7,5 @@ https://quizzical-app-v01.netlify.app
 ## ⚒️ Built with:
 - HTML 5
 - CSS 3
-- JavaScript
+- Typescript
 - React
